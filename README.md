@@ -1,3 +1,3 @@
 Ex2: Exoplanets Explorer
 
-Demo: www.cfa.harvard.edu/~fbecerra/ex2
+Demo: https://www.fernandobecerra.com/ex2
